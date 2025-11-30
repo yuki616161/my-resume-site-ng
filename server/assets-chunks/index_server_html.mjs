@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>MyResumeSiteNg</title>
-  <base href="https://yuki616161.github.io/my-resume-site-ng/">
+  <base href="/my-resume-site-ng/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-BYAO45LN.css"></head>
