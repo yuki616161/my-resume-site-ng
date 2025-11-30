@@ -11,7 +11,7 @@ export default {
   },
   {
     "renderMode": 2,
-    "route": "/my-resume-site-ng/hobbies"
+    "route": "/my-resume-site-ng/hobby"
   },
   {
     "renderMode": 2,
@@ -29,12 +29,12 @@ export default {
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 703, hash: 'b7097dfa2ef640dc146337693f8d36b78f4b48e28f4ff375e635adecd41163aa', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 970, hash: '59dc68d7b56b05786eb9401e82e73b9dbc66afc5ef7e988815010d78696a1844', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'index.html': {size: 4359, hash: '8ffe96fad5031ee78be76652ee297153004dfdf7f6fdcd84e69f386b96721fa1', text: () => import('./assets-chunks/index_html.mjs').then(m => m.default)},
-    'hobbies/index.html': {size: 3074, hash: 'eaa266a01e8609ade5f9f32163be5eb9e73982fa18bd1baa519e3a011626bf41', text: () => import('./assets-chunks/hobbies_index_html.mjs').then(m => m.default)},
-    'contact/index.html': {size: 2681, hash: '52d40df7d273dad1f2141cd1fe303ee72199a53b7041b8aa256b8461ef676d3f', text: () => import('./assets-chunks/contact_index_html.mjs').then(m => m.default)},
-    'gallery/index.html': {size: 2733, hash: '2124a6c640cd36bdc96c1b9ad8c1131bca89f922460e8335fddd754f43c7798b', text: () => import('./assets-chunks/gallery_index_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 703, hash: 'ca8d69060d670ed9b0cdcf9902e7281c572cdbc74bea6356c7732e1c48b9af79', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 970, hash: '6f55456d774c8796c383340079c421d4cdd3a3a09528144db603d140d1338026', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.html': {size: 4355, hash: 'b1321ebb299b83f7a4411357a20bffe7508ef5ce0c97d03b72dc486a0270bc12', text: () => import('./assets-chunks/index_html.mjs').then(m => m.default)},
+    'hobby/index.html': {size: 3070, hash: '6f61831f12401c3514c7eb798382abae35a3400d4b0fec2541637d539392b01a', text: () => import('./assets-chunks/hobby_index_html.mjs').then(m => m.default)},
+    'gallery/index.html': {size: 2729, hash: 'edffc1693922a3241a746f201f2b9f80187212fc7a9e7c99cd90499ee66bfab1', text: () => import('./assets-chunks/gallery_index_html.mjs').then(m => m.default)},
+    'contact/index.html': {size: 2677, hash: '2e8244d2c788ab591c4e9f4b03283af304d83c23e4e882313a57ce49bcf0be18', text: () => import('./assets-chunks/contact_index_html.mjs').then(m => m.default)},
     'styles-BYAO45LN.css': {size: 2454, hash: 'XrWuSDZf4lk', text: () => import('./assets-chunks/styles-BYAO45LN_css.mjs').then(m => m.default)}
   },
 };
